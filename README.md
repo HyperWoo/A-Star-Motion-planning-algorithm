@@ -2,7 +2,7 @@
 Visualize the well known A*, RRT, and RRT* path planning algorithms
 
 
-PROJECT LINK!: https://vinayak-d.github.io/MotionPlanningVisualizer
+PROJECT LINK!: //
 
 
 Welcome to Motion Planning Algorithm Visualizer, please click the link above to try it yourself! Choose Dubai or Las Vegas maps, or define your own grid with obstacles!
@@ -42,7 +42,3 @@ In robotics and autonomous driving, all three algorithms are commonly used depen
 
 This project was inspired from the very popular https://clementmihailescu.github.io/Pathfinding-Visualizer/#, this lets you visualize more algorithms (Djikstra, BFS), however RRT
 algorithms are not covered there.
-
-
-To learn more about RRT algorithms, check out my Udemy course: https://www.udemy.com/course/an-introduction-to-sampling-based-motion-planning-algorithms/
-
